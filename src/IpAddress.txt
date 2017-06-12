@@ -1,0 +1,6 @@
+A.B.C
+A.B.C.D
+B.A.C
+B.B.B
+a.A.A.A.B
+c.C.D.A.B.a
